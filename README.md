@@ -4,17 +4,10 @@ This is a RESTful API for a phonebook application built with Node.js and Sequeli
 
 ## Features
 
-- User authentication and registration
+- User registration and login process
 - CRUD operations for user's contacts
 - Search contacts by name or phone number
 - Mark phone numbers as spam
-
-## Technologies Used
-
-- Node.js
-- Express.js
-- Sequelize ORM
-- SQLite
 
 ## Getting Started
 
@@ -214,3 +207,6 @@ This is a RESTful API for a phonebook application built with Node.js and Sequeli
         "createdAt": "2024-05-31T07:01:59.187Z"
     }
     ```
+
+## License
+This project is licensed under the MIT License
